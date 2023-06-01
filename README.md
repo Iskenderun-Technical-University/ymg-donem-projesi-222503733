@@ -2,8 +2,6 @@
                                                   
 					             Yazılım Mühendisliği Proje Ödevi
 						      (ÖĞRENCİ ETÜT MERKEZİ PROGRAMI )
-<b> Öğrenci: </b> Habibe Karayiğit <br>
-<b>  Öğrenci No: </b>222503733 <br>
 <b>  Konu: </b> Devrim Etüt Merkezi <br>
  Dört profil bulunmaktadır. Yönetici profili tüm diğer öğrenci, öğretmen ve velilerin bilgilerini ekleyen kişidir. <br>
 <b> Öğrenci:</b> Sınav sonucunu ve sınav programını görür. <br>
@@ -12,9 +10,9 @@
 Kisiler tablosu main tablodur ve Veli, Oğrenci ve Ogretmen tablosu Kisilerdeki bilgilere ek olarak kendinde bulunan alanlara kayıt yapmaktadır.  <br>
 Veli, Oğrenci ve Ogretmen tabloları child tablolardır. <br>
 ![image](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-222503733/assets/37442135/1bf8496b-428a-4776-bd13-ff55eadda48a)<br>
-Anasayfa.cs <br>
+Anasayfa.cs <br><br><br>
 ![image](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-222503733/assets/37442135/19a4142c-1f9c-493b-82cf-31b2bda0b957)<br>
-Burada 4 kimlik tipi vardır; Öğrenci, Öğretmen, Öğrenci ve Yönetici.
+Burada 4 kimlik tipi vardır; Öğrenci, Öğretmen, Öğrenci ve Yönetici.<br><br><br>
 ![image](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-222503733/assets/37442135/1f247d00-997a-4732-aa49-dfbf39feabbc)<br>
 1-	Yönetici:  Yönetici Öğrenci, öğretmen ve velileri ekleyebilen biridir. Başka kimse ekleyemez. Kullanıcı adı ve şifreyide Yönetici verebilmektedir. Kullanıcı adı ve şifresi ile girdiğinde kimliği yönetici olan kişi için aşağıdaki ekran açılmaktadır;<br><br><br>
 ![image](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-222503733/assets/37442135/ec31f460-46a5-4f6a-92f0-0d0f3df299e1)<br>
