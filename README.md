@@ -1,9 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QA5O9x4M)
-                                                  ÖĞRENCİ ETÜT MERKEZİ PROGRAMI
-					               (Proje diyagramı aşağıdadır.) 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Base sınıfta TC_NO ile diğer child classlara bağlantı kurulacak. Base classta TC_NO, Ad, Soyad, Adres ve Telefon alanları olacak. Ögrenci bilgileri, Veli bilgileri ve Çalışan bilgilerini tutmak için 3 child class olacak ve bu classlarda TC_No unique değeri ile base classa bağlanacak. Ayrıca Ogrenci velisi ve öğrenci sınıf öğretmeni için TC_No ile bağlantı kurulacak. <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bu program öğrencilerin sınav programlarını görmesi, sınav sonuçlarına ulaşması, velilerin yönetimce bilgilerinin tutularak onlarla iletişim kurulması ve çalışanların bilgilerinin tutulması ve eklenmesi için yapılacak bir uygulamadır. <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uygulama için C# ve Access programı düşünülmektedir. Ya da PHP ve MYSQL de kullanılabilir.
+                                                  
+					             Yazılım Mühendisliği Proje Ödevi
+						      (ÖĞRENCİ ETÜT MERKEZİ PROGRAMI )
+<b> Öğrenci: </b> Habibe Karayiğit <br>
+<b>  Öğrenci No: </b>222503733 <br>
+<b>  Konu: </b> Devrim Etüt Merkezi <br>
+ Dört profil bulunmaktadır. Yönetici profili tüm diğer öğrenci, öğretmen ve velilerin bilgilerini ekleyen kişidir. <br>
+<b> Öğrenci:</b> Sınav sonucunu ve sınav programını görür. <br>
+<b>  Öğretmen: </b> Ders programını görebilir. <br>
+<b> Veli:</b> Öğrencisinin sınav puanını görebilir. <br>
+Kisiler tablosu main tablodur ve Veli, Oğrenci ve Ogretmen tablosu Kisilerdeki bilgilere ek olarak kendinde bulunan alanlara kayıt yapmaktadır.  <br>
+Veli, Oğrenci ve Ogretmen tabloları child tablolardır. <br>
+![image](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-222503733/assets/37442135/1bf8496b-428a-4776-bd13-ff55eadda48a)
 
-![image](https://user-images.githubusercontent.com/37442135/235882518-2638821f-edfd-4dec-945c-260505057e07.png)
 
